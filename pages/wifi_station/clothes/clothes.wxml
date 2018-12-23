@@ -1,0 +1,16 @@
+<view id="text1">
+
+    <view >当前湿度：</view>
+    <view> {{huml}}</view>
+  
+
+    <view>预计距离收衣的时间：</view>
+    <view >{{hour}}小时{{minute}}分钟</view>
+
+</view>
+<text id="text2">建议、投诉、使用方法可扫二维码获得❤</text>
+<view class="jx_card">
+  <image style="width: 740rpx; height: 275rpx;margin-left=10rpx;margin-top:10rpx;" mode="{{item.mode}}" src="">
+      <image class="jxlogo" src="https://graph.baidu.com/resource/1e4bce4e7547fb79e6d5e01545452860.jpg"/>
+  </image>
+ </view>

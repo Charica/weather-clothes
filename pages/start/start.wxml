@@ -1,0 +1,10 @@
+<!--start.wxml-->
+
+<button class="btn1" bindtap="validate">
+天气情况</button>
+
+<button class="btn2" bindtap="location">
+衣物情况</button>
+
+<text id="text">提示：当湿度低于一定值时提醒收衣</text>
+

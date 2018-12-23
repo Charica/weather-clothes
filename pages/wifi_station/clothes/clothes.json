@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "white",
+  "navigationBarTitleText": "手机喊你回家收衣服啦",
+  "tabBar": {
+    "color": "#dddddd",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "List": []
+  }
+}

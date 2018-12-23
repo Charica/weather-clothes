@@ -1,0 +1,33 @@
+/* start.wxss */
+page{
+
+  display: block;
+
+  min-height: 100%;
+
+  background-color: white;
+
+  background-image: url("https://graph.baidu.com/resource/14ff6ab9df4721bee5da901545454443.jpg");
+
+}
+.btn1{
+  width: 60%;
+  top: 10%
+}
+.btn2{
+  width: 60%;
+  top: 12%
+}
+
+
+
+  #text{
+  color: #888888;
+  font-family:PingFangSC-Regular;
+  font-size:12px;
+  top: 55%;
+  left: 17%;
+  position: absolute
+  }
+
+ 

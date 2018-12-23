@@ -1,0 +1,44 @@
+page{
+
+  display: block;
+
+  min-height: 100%;
+
+  background-color: white;
+
+  background-image: url("https://graph.baidu.com/resource/12c917eb764b10c45eddf01545454331.jpg");
+
+}
+
+
+.jx_card{
+  width:0%;
+  height: 295rpx;
+  background-image: url("https://graph.baidu.com/resource/1a54ff74a61b76edea3e701545409320.jpg");
+
+  position: relative
+}
+ .jxlogo{
+  top:500rpx;
+  margin-left: 150rpx;
+  width: 400rpx;
+  height: 400rpx;
+  float: left;
+  position: absolute;
+}
+#text1{
+  color: black;
+  font-family:PingFangSC-Regular;
+  font-size:20px;
+  top:10%;
+  left: 20%;
+  position: absolute
+  }
+#text2{
+  color: #767677;
+  font-family:PingFangSC-Regular;
+  font-size:12px;
+  top: 32%;
+  left: 17%;
+  position: absolute
+  }
